@@ -1,5 +1,6 @@
 ## Qbby
 ![Screenshot](Screenshot.png)
+
 A small C# console program which prints an image of Qbby to the console.
 
 ## Why though?
